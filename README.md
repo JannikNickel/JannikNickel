@@ -33,15 +33,15 @@
 <div align="left">
     <h2>📈 Stats</h2>
     <div align="left">
-        <img src="https://data.jnigames.com/Generated/languageStats_Compact.svg">
+        <img src="https://data.jnigames.com/Generated/languageStats_Compact_Dark.svg">
     </div>
     <br/>
     <div align="left">
-        <img src="https://data.jnigames.com/Generated/commitTimes.svg">
+        <img src="https://data.jnigames.com/Generated/commitTimes_Dark.svg">
     </div>
     <br/>
     <div align="left">
-        <img src="https://data.jnigames.com/Generated/commitDays.svg">
+        <img src="https://data.jnigames.com/Generated/commitDays_Dark.svg">
     </div>
 </div>
 
