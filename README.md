@@ -10,7 +10,7 @@
 
 💡 Other interests: 3D modelling, graphic design
 
-🎓 Studying: Applied computer science
+🎓 B.Sc. Applied Computer Science
 
 💬 How to reach me: [Discord](JNI#3310) | [Twitter](https://twitter.com/jannik_jn) | [Email](janniknickel.info@gmail.com)
 
