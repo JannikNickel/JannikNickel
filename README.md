@@ -2,7 +2,7 @@
 
 ## 📖 About me
 
-💻 Currently working on: [Ancient Warfare 3](https://store.steampowered.com/app/758990/Ancient_Warfare_3/)
+💻 Currently working on: Random side projects
 
 🧐 Things I like: C#, .NET Core, Gamedev, C++
 
@@ -33,15 +33,15 @@
 <div align="left">
     <h2>📈 Stats</h2>
     <div align="left">
-        <img src="https://data.jnigames.com/Generated/languageStats_Compact_Dark.svg">
+        <img src="./generated/langs-comp.svg">
     </div>
     <br/>
     <div align="left">
-        <img src="https://data.jnigames.com/Generated/commitTimes_Dark.svg">
+        <img src="./generated/commit-times.svg">
     </div>
     <br/>
     <div align="left">
-        <img src="https://data.jnigames.com/Generated/commitDays_Dark.svg">
+        <img src="./generated/commit-days.svg">
     </div>
 </div>
 

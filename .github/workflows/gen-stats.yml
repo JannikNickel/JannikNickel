@@ -1,0 +1,62 @@
+name: Generate Stats
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 21 * * 0"
+
+jobs:
+  gen-file:
+    runs-on: ubuntu-latest
+    name: Generate Stats Cards
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Lang Stats
+        uses: JannikNickel/GithubStatsGen@master
+        with:
+          access_token: ${{ secrets.ACCESS_TOKEN }}
+          username: "JannikNickel"
+          output_file: "generated/langs-comp.svg"
+          type: "lang_comp"
+          theme: "dark"
+          include_private: true
+          include_forks: false
+          ignored_repos: "JNIGames_Website,JNIGames_Homepage,Blockchain"
+          language_limit: 7
+
+      - name: Generate Commit Days
+        uses: JannikNickel/GithubStatsGen@master
+        with:
+          access_token: ${{ secrets.ACCESS_TOKEN }}
+          username: "JannikNickel"
+          output_file: "generated/commit-days.svg"
+          type: "commit_days"
+          theme: "dark"
+          include_private: true
+          include_forks: false
+          ignored_repos: "JNIGames_Website,JNIGames_Homepage,Blockchain"
+          timezone: "Europe/Berlin"
+
+      - name: Generate Commit Times
+        uses: JannikNickel/GithubStatsGen@master
+        with:
+          access_token: ${{ secrets.ACCESS_TOKEN }}
+          username: "JannikNickel"
+          output_file: "generated/commit-times.svg"
+          type: "commit_times"
+          theme: "dark"
+          include_private: true
+          include_forks: false
+          ignored_repos: "JNIGames_Website,JNIGames_Homepage,Blockchain"
+          timezone: "Europe/Berlin"
+
+      - name: Commit + push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update stats" || echo "No changes to commit"
+          git push
