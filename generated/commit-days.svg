@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="530" height="276.0" viewBox="0 0 530 276.0">
+<style>/*<![CDATA[*/.background {
+    stroke: #636363;
+    fill: #151A1E;
+}
+
+.header {
+    font: 400 20px Sans-Serif;
+    font-size: 20px;
+    fill: #E9E9E9;
+}
+
+.label {
+    font: 400 13px Lucida Console, Monospace;
+    font-size: 13px;
+    fill: #CCCCCC;
+}
+
+.language-label
+{
+    font: 400 14px Sans-Serif;
+    font-size: 14px;
+    fill: #CCCCCC;
+}
+
+.progress-bar-bg { fill: #DDDDDD; }
+.progress-bar-fill { fill: #818181; }
+/*]]>*/</style>
+<defs>
+</defs>
+<rect x="0.5" y="0.5" width="529" height="275.0" rx="5" ry="5" stroke-opacity="1" class="background" />
+<text x="25" y="35.0" font-size="0" class="header">📅 I'm most productive on Wednesday!</text>
+<g transform="translate(25, 70.0)">
+<g transform="translate(0, 0)">
+<text x="0" y="0" font-size="0" class="label">Monday</text>
+<text x="200" y="0" font-size="0" text-anchor="end" class="label">585 commits</text>
+<rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
+<rect x="210" y="-10" width="34.323125357756155" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">16.74%</text>
+</g>
+<g transform="translate(0, 30)">
+<text x="0" y="0" font-size="0" class="label">Tuesday</text>
+<text x="200" y="0" font-size="0" text-anchor="end" class="label">558 commits</text>
+<rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
+<rect x="210" y="-10" width="32.738981110475095" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">15.97%</text>
+</g>
+<g transform="translate(0, 60)">
+<text x="0" y="0" font-size="0" class="label">Wednesday</text>
+<text x="200" y="0" font-size="0" text-anchor="end" class="label">631 commits</text>
+<rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
+<rect x="210" y="-10" width="37.022037779049796" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">18.06%</text>
+</g>
+<g transform="translate(0, 90)">
+<text x="0" y="0" font-size="0" class="label">Thursday</text>
+<text x="200" y="0" font-size="0" text-anchor="end" class="label">587 commits</text>
+<rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
+<rect x="210" y="-10" width="34.44046937607327" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">16.8%</text>
+</g>
+<g transform="translate(0, 120)">
+<text x="0" y="0" font-size="0" class="label">Friday</text>
+<text x="200" y="0" font-size="0" text-anchor="end" class="label">496 commits</text>
+<rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
+<rect x="210" y="-10" width="29.10131654264453" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">14.2%</text>
+</g>
+<g transform="translate(0, 150)">
+<text x="0" y="0" font-size="0" class="label">Saturday</text>
+<text x="200" y="0" font-size="0" text-anchor="end" class="label">330 commits</text>
+<rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
+<rect x="210" y="-10" width="19.361763022323984" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">9.44%</text>
+</g>
+<g transform="translate(0, 180)">
+<text x="0" y="0" font-size="0" class="label">Sunday</text>
+<text x="200" y="0" font-size="0" text-anchor="end" class="label">307 commits</text>
+<rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
+<rect x="210" y="-10" width="18.01230681167716" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">8.79%</text>
+</g>
+</g>
+</svg>

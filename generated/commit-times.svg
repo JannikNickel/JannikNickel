@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="530" height="186.0" viewBox="0 0 530 186.0">
+<style>/*<![CDATA[*/.background {
+    stroke: #636363;
+    fill: #151A1E;
+}
+
+.header {
+    font: 400 20px Sans-Serif;
+    font-size: 20px;
+    fill: #E9E9E9;
+}
+
+.label {
+    font: 400 13px Lucida Console, Monospace;
+    font-size: 13px;
+    fill: #CCCCCC;
+}
+
+.language-label
+{
+    font: 400 14px Sans-Serif;
+    font-size: 14px;
+    fill: #CCCCCC;
+}
+
+.progress-bar-bg { fill: #DDDDDD; }
+.progress-bar-fill { fill: #818181; }
+/*]]>*/</style>
+<defs>
+</defs>
+<rect x="0.5" y="0.5" width="529" height="185.0" rx="5" ry="5" stroke-opacity="1" class="background" />
+<text x="25" y="35.0" font-size="0" class="header">I'm a night 🦉</text>
+<g transform="translate(25, 70.0)">
+<g transform="translate(0, 0)">
+<text x="0" y="0" font-size="0" class="label">🌅 Morning</text>
+<text x="200" y="0" font-size="0" text-anchor="end" class="label">22 commits</text>
+<rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
+<rect x="210" y="-10" width="1.2985891160380074" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">0.63%</text>
+</g>
+<g transform="translate(0, 30)">
+<text x="0" y="0" font-size="0" class="label">☀️ Daytime</text>
+<text x="200" y="0" font-size="0" text-anchor="end" class="label">1402 commits</text>
+<rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
+<rect x="210" y="-10" width="82.75554275842212" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">40.37%</text>
+</g>
+<g transform="translate(0, 60)">
+<text x="0" y="0" font-size="0" class="label">🌇 Evening</text>
+<text x="200" y="0" font-size="0" text-anchor="end" class="label">1562 commits</text>
+<rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
+<rect x="210" y="-10" width="92.19982723869853" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">44.98%</text>
+</g>
+<g transform="translate(0, 90)">
+<text x="0" y="0" font-size="0" class="label">🌙 Night</text>
+<text x="200" y="0" font-size="0" text-anchor="end" class="label">487 commits</text>
+<rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
+<rect x="210" y="-10" width="28.746040886841346" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">14.02%</text>
+</g>
+</g>
+</svg>
