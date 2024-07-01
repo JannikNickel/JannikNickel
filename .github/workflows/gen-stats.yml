@@ -24,7 +24,7 @@ jobs:
           theme: "dark"
           include_private: true
           include_forks: false
-          ignored_repos: "JNIGames_Website,JNIGames_Homepage,Blockchain"
+          ignored_repos: "JNIGames_Website,JNIGames_Homepage,Blockchain,AncientWarfare3"
           language_limit: 7
 
       - name: Generate Commit Days
