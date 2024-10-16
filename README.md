@@ -25,7 +25,6 @@
         <img src="./img/ColoredBadges/VisualStudioCode.png" height="32" />
         <img src="./img/ColoredBadges/Unity.png" height="32" />
         <img src="./img/ColoredBadges/Gamedev.png" height="32" />
-        <img src="./img/ColoredBadges/JavaScript.png" height="32" />
         <img src="./img/ColoredBadges/Python.png" height="32" />
     </p>
 </div>
