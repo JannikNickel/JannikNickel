@@ -36,26 +36,26 @@
 <text x="25" y="35" font-size="0" class="header">Most Used Languages</text>
 <g transform="translate(25, 60)">
 <use xlink:href="#mask" />
-<rect x="0" y="0" width="320.3532871734639" height="10" fill="#178600" mask="url(#mask)" />
+<rect x="0" y="0" width="318.95142306249244" height="10" fill="#178600" mask="url(#mask)" />
 <circle cx="5" cy="30" r="5" fill="#178600" />
-<text x="15" y="35" font-size="0" class="language-label">C# <tspan opacity="0.7">(66.74%)</tspan></text>
-<rect x="320.3532871734639" y="0" width="68.15768923297419" height="10" fill="#f34b7d" mask="url(#mask)" />
+<text x="15" y="35" font-size="0" class="language-label">C# <tspan opacity="0.7">(66.45%)</tspan></text>
+<rect x="318.95142306249244" y="0" width="67.55869489951573" height="10" fill="#f34b7d" mask="url(#mask)" />
 <circle cx="257.5" cy="30" r="5" fill="#f34b7d" />
-<text x="267.5" y="35" font-size="0" class="language-label">C++ <tspan opacity="0.7">(14.2%)</tspan></text>
-<rect x="388.5109764064381" y="0" width="18.760542713793058" height="10" fill="#3572A5" mask="url(#mask)" />
+<text x="267.5" y="35" font-size="0" class="language-label">C++ <tspan opacity="0.7">(14.07%)</tspan></text>
+<rect x="386.51011796200817" y="0" width="18.616992149869553" height="10" fill="#3572A5" mask="url(#mask)" />
 <circle cx="5" cy="55" r="5" fill="#3572A5" />
-<text x="15" y="60" font-size="0" class="language-label">Python <tspan opacity="0.7">(3.91%)</tspan></text>
-<rect x="407.2715191202311" y="0" width="16.124159103940574" height="10" fill="#555555" mask="url(#mask)" />
+<text x="15" y="60" font-size="0" class="language-label">Python <tspan opacity="0.7">(3.88%)</tspan></text>
+<rect x="405.1271101118777" y="0" width="15.982454183428532" height="10" fill="#555555" mask="url(#mask)" />
 <circle cx="257.5" cy="55" r="5" fill="#555555" />
-<text x="267.5" y="60" font-size="0" class="language-label">C <tspan opacity="0.7">(3.36%)</tspan></text>
-<rect x="423.3956782241717" y="0" width="15.966670580171392" height="10" fill="#dea584" mask="url(#mask)" />
+<text x="267.5" y="60" font-size="0" class="language-label">C <tspan opacity="0.7">(3.33%)</tspan></text>
+<rect x="421.10956429530626" y="0" width="15.82634972555689" height="10" fill="#dea584" mask="url(#mask)" />
 <circle cx="5" cy="80" r="5" fill="#dea584" />
-<text x="15" y="85" font-size="0" class="language-label">Rust <tspan opacity="0.7">(3.33%)</tspan></text>
-<rect x="439.3623488043431" y="0" width="12.406985654650583" height="10" fill="#CACDD3" mask="url(#mask)" />
+<text x="15" y="85" font-size="0" class="language-label">Rust <tspan opacity="0.7">(3.3%)</tspan></text>
+<rect x="436.93591402086315" y="0" width="12.297948593886488" height="10" fill="#CACDD3" mask="url(#mask)" />
 <circle cx="257.5" cy="80" r="5" fill="#CACDD3" />
-<text x="267.5" y="85" font-size="0" class="language-label">ShaderLab <tspan opacity="0.7">(2.58%)</tspan></text>
-<rect x="451.76933445899374" y="0" width="28.230665541006303" height="10" fill="#999999" mask="url(#mask)" />
+<text x="267.5" y="85" font-size="0" class="language-label">ShaderLab <tspan opacity="0.7">(2.56%)</tspan></text>
+<rect x="449.2338626147496" y="0" width="30.76613738525033" height="10" fill="#999999" mask="url(#mask)" />
 <circle cx="5" cy="105" r="5" fill="#999999" />
-<text x="15" y="110" font-size="0" class="language-label">Other <tspan opacity="0.7">(5.88%)</tspan></text>
+<text x="15" y="110" font-size="0" class="language-label">Other <tspan opacity="0.7">(6.41%)</tspan></text>
 </g>
 </svg>
