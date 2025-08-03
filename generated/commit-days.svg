@@ -36,50 +36,50 @@
 <text x="0" y="0" font-size="0" class="label">Monday</text>
 <text x="200" y="0" font-size="0" text-anchor="end" class="label">655 commits</text>
 <rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
-<rect x="210" y="-10" width="33.23638613861386" height="12" rx="3" ry="3" class="progress-bar-fill" />
-<text x="475" y="0" font-size="0" text-anchor="end" class="label">16.21%</text>
+<rect x="210" y="-10" width="33.21172396735098" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">16.2%</text>
 </g>
 <g transform="translate(0, 30)">
 <text x="0" y="0" font-size="0" class="label">Tuesday</text>
 <text x="200" y="0" font-size="0" text-anchor="end" class="label">640 commits</text>
 <rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
-<rect x="210" y="-10" width="32.475247524752476" height="12" rx="3" ry="3" class="progress-bar-fill" />
-<text x="475" y="0" font-size="0" text-anchor="end" class="label">15.84%</text>
+<rect x="210" y="-10" width="32.4511501360376" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">15.83%</text>
 </g>
 <g transform="translate(0, 60)">
 <text x="0" y="0" font-size="0" class="label">Wednesday</text>
 <text x="200" y="0" font-size="0" text-anchor="end" class="label">704 commits</text>
 <rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
-<rect x="210" y="-10" width="35.72277227722772" height="12" rx="3" ry="3" class="progress-bar-fill" />
-<text x="475" y="0" font-size="0" text-anchor="end" class="label">17.43%</text>
+<rect x="210" y="-10" width="35.696265149641356" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">17.41%</text>
 </g>
 <g transform="translate(0, 90)">
 <text x="0" y="0" font-size="0" class="label">Thursday</text>
 <text x="200" y="0" font-size="0" text-anchor="end" class="label">663 commits</text>
 <rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
-<rect x="210" y="-10" width="33.64232673267327" height="12" rx="3" ry="3" class="progress-bar-fill" />
-<text x="475" y="0" font-size="0" text-anchor="end" class="label">16.41%</text>
+<rect x="210" y="-10" width="33.61736334405145" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">16.4%</text>
 </g>
 <g transform="translate(0, 120)">
 <text x="0" y="0" font-size="0" class="label">Friday</text>
 <text x="200" y="0" font-size="0" text-anchor="end" class="label">532 commits</text>
 <rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
-<rect x="210" y="-10" width="26.995049504950497" height="12" rx="3" ry="3" class="progress-bar-fill" />
-<text x="475" y="0" font-size="0" text-anchor="end" class="label">13.17%</text>
+<rect x="210" y="-10" width="26.975018550581254" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">13.16%</text>
 </g>
 <g transform="translate(0, 150)">
 <text x="0" y="0" font-size="0" class="label">Saturday</text>
 <text x="200" y="0" font-size="0" text-anchor="end" class="label">384 commits</text>
 <rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
-<rect x="210" y="-10" width="19.485148514851485" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<rect x="210" y="-10" width="19.470690081622557" height="12" rx="3" ry="3" class="progress-bar-fill" />
 <text x="475" y="0" font-size="0" text-anchor="end" class="label">9.5%</text>
 </g>
 <g transform="translate(0, 180)">
 <text x="0" y="0" font-size="0" class="label">Sunday</text>
-<text x="200" y="0" font-size="0" text-anchor="end" class="label">462 commits</text>
+<text x="200" y="0" font-size="0" text-anchor="end" class="label">465 commits</text>
 <rect x="210" y="-10" width="205" height="12" rx="3" ry="3" class="progress-bar-bg" />
-<rect x="210" y="-10" width="23.443069306930695" height="12" rx="3" ry="3" class="progress-bar-fill" />
-<text x="475" y="0" font-size="0" text-anchor="end" class="label">11.44%</text>
+<rect x="210" y="-10" width="23.577788770714818" height="12" rx="3" ry="3" class="progress-bar-fill" />
+<text x="475" y="0" font-size="0" text-anchor="end" class="label">11.5%</text>
 </g>
 </g>
 </svg>
