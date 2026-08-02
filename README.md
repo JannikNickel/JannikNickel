@@ -4,7 +4,7 @@
 
 💻 Currently working on: Random side projects
 
-🧐 Things I like: C#, .NET Core, Gamedev, C++
+🧐 Things I like: C#, .NET, Gamedev, C++
 
 🌱 I'm currently learning about: Engine development, rendering APIs
 
